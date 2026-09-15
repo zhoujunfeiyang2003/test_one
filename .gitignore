@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+*.log
+echo node_modules/>> .gitignore
+echo dist/>> .gitignore
+echo .env>> .gitignore
+echo *.log>> .gitignore2
